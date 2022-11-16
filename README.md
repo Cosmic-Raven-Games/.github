@@ -8,5 +8,7 @@ Discord:
 https://discord.gg/ffRQKe88Zb
 
 Projects:
+
 'Kinetic Novel'
+
 'Multiplayer Interactive Novel'
